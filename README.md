@@ -1,1 +1,1 @@
-# NSLOOKUP
+The implementation of the NSLOOKUP Tool provides a simple yet powerful utility for performing DNS lookups directly from the command line. It can resolve domain names, find associated IP addresses, query specific DNS records, and interact with custom DNS servers. 
